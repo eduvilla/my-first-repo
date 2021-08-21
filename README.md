@@ -22,4 +22,3 @@ My favorite food:
 
 ### Contact
 
-Follow me [on Github](https://github.com).
