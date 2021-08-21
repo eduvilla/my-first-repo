@@ -21,5 +21,3 @@ My favorite food:
 3. Meat
 
 ### Contact
-
-Follow me [on Github](https://github.com/eduvilla).
